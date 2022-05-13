@@ -12,22 +12,11 @@ You can use meta tags in Markdown style.
 ;d Meta Description;
 ;i Meta Image;
 
-+ Markdown
++ Markdown (https://www.markdownguide.org/cheat-sheet/)
 
-**Bold**
-*Italic*
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
---- HR
-
+Bold
+Italic
+H1 - H6
+Hr
 Link
-[title](https://www.example.com)
-
 Image
-![alt text](https://image.jpg)
