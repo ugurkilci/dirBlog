@@ -13,7 +13,7 @@ You can use meta tags in Markdown style.
 ;i Meta Image;
 
 + Markdown
-
+`
 **Bold**
 *Italic*
 
@@ -31,3 +31,4 @@ Link
 
 Image
 ![alt text](https://image.jpg)
+`
