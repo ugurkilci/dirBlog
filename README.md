@@ -1,2 +1,2 @@
 # dirBlog
-Blog system working with .txt and markdown under the folder.
+Blog system that works without a database. Folder and .txt are used.
