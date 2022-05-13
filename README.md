@@ -1,5 +1,8 @@
 # dirBlog
 Blog system that works without a database. Folder and .txt are used.<br>
+Example: https://www.girisimzel.com/s/sayfa
+<br>
+# It has bugs, it will be fixed!
 <br>
 If you paste this on the homepage, the post will automatically print to the screen.<br>
 Each file used under the .txt under the "posts" folder is counted as a post.<br>
